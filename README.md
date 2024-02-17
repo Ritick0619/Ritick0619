@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritick0619
-- 👀 I’m interested in laptop / gaming
+- 👀 I’m interested in Coding / gaming
 - 🌱 I’m currently learning new languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open projects ...
 - 📫 How to reach me kapilhritik98@gmail.com
 
 <!---
